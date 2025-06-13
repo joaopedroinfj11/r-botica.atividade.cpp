@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int n1, n2;
+float r1, r2;
+bool True;
+char uk;
+
+int main() {
+    
+ 
+
+
+ cout <<"smoke..., ningerundayoooo: "<< endl;
+    cin>>n1;
+ cout <<"boa, meu nobre: ";
+    cin>>n2;
+ cout <<"eu vo me tornar o rei dos piratas: ";
+    cin>>r1;
+ cout <<"don't give up, men: ";
+    cin>>r2;
+    std::cout<<"pronto, terminou: "<< std::endl;
+    return 0;
+}

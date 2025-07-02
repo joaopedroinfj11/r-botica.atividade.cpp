@@ -1,23 +1,25 @@
 #include <iostream>
 using namespace std;
 int n1, n2;
-float r1, r2;
-bool True;
-char uk;
-
+float n3;
+double n4;
+char v;
 int main() {
     
  
 
 
- cout <<"smoke..., ningerundayoooo: "<< endl;
+ cout <<"informe o valor: "<< endl;
     cin>>n1;
- cout <<"boa, meu nobre: ";
+ cout <<"informe o valor: ";
     cin>>n2;
- cout <<"eu vo me tornar o rei dos piratas: ";
-    cin>>r1;
- cout <<"don't give up, men: ";
-    cin>>r2;
+ cout <<"informe o valor";
+    cin>>n3;
+ cout <<"informe o valor: ";
+    cin>>n4;
+ cout <<"tá aqui: ";
+     cin>>v;
     std::cout<<"pronto, terminou: "<< std::endl;
+    
     return 0;
 }
